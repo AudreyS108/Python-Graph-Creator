@@ -23,7 +23,9 @@ Throughout the creation of my project, I was challenged by multiple issues.
 * Issue 1: 
 
 By overcoming these challenges, I had developed many skills: 
-* 1. When fixing the issue of ___, I had utilized...
+1. When fixing the issue of ___, I had utilized...
+2. Text
+3. Text
 
 Overall, creating this project has led me to enhance many of my coding skills in Python, through solving various challenges.
 __________________________________________________________
