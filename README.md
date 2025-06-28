@@ -45,16 +45,13 @@ __________________________________________________________
 This project was made by using the Python libraries Matplotlib, Seaborn, Pandas and Counter. I used the code editor Jupyter Notebook when making this project.
 * Matplotlib and Seaborn: Used for creating graphs with the given datapoints the user inputted.
 * Pandas: Used to clean data and format dataset into a table.
-* Counter: Used to ___ **TBC**
-
+* Counter: Used to determine the frequency of certain values in a dataset (used to create the histograms)
 __________________________________________________________
 Throughout the creation of my project, I was challenged by multiple issues.
-* Issue 1: 
+* Issue 1: Before, the ticks on the axis of the graph would not be in ascending order. I fixed this by converting the input to a float input so that the Matplotlib library could read the inputted number and plot the graph correctly.  
+* Issue 2: When testing, I would occasionally input an option which wasn't intended (e.g. entering a typo for a question which required the user to input something), which would cause the code to crash because such option would not exist and therefore the code for plotting the graph would not work. To fix this, I coded a function where if either the answers "yes" or "no" weren't given, the code would send an error to the user in the terminal or output and tell the user to re-enter their response. This provided convenience for the user. 
 
-By overcoming these challenges, I had developed many skills: 
-1. When fixing the issue of ___, I had utilized...
-2. Text
-3. Text
+By overcoming these challenges, I had developed many skills. For example, I enhanced my knowldege of dataframes, and learned to handle data using libraries such as Pandas and Matplotlib. Another skill I advanced was my use of loops. This happened when I was adjusting the part which allowed a user to select yes/no to input multiple datapoints, I used while ___ = True loops to let the user input as many points as they wanted (until the user selected no, and a variable would be set to False and the loop would be broken.)
 
 Overall, creating this project has led me to enhance many of my coding skills in Python, through solving various challenges.
 __________________________________________________________
