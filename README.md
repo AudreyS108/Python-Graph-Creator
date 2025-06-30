@@ -2,6 +2,7 @@
 This project is called Python Graph Creator.  
 It is my first project submission for the Athena Award.   
 This project is designed to let the user create a plot/graph easily! It's simple to customize, and also simple to set up. 
+This code allows the user to input their own x and y values. and create a graph with the data.
 __________________________________________________________
 What It Does:
 -
