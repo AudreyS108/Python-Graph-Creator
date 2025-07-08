@@ -19,7 +19,7 @@ How To Operate:
 
  **Alternate operating methods (only if above method fails!)** 
 <details>
-<summary></summary>
+<summary>Click to open!</summary>
 
 1. Press the green "Code" button. Select "Local" and then "Download ZIP"
    
@@ -32,26 +32,32 @@ How To Operate:
 > Open Jupyter Notebook, open a new terminal and input the following code:
 
 > ```pip install pandas```
-
 > ```pip install matplotlib```   
 > ```pip install seaborn```  
-> ```pip install counter ```  
-> (These commands are used to install the needed Python Libraries in order for the code to run as it should.)   
-> After installing all of these libraries, in Jupyter Notebook, open the unzipped/extracted folder, click in "Python-Graph-Creator-main", then "pythongraphcreator"  
->  Open the file which is of the file type *.ipynb*  
-> You can now use the graph creator! Press the triangle button to start, and guided steps should show up in the output. Simply type your answers in the output to create your graph.  
+> ```pip install counter ```
+
+> (These commands are used to install the needed Python Libraries in order for the code to run as it should.)
+> After installing all of these libraries, in Jupyter Notebook, open the unzipped/extracted folder, click in "Python-Graph-Creator-main", then "pythongraphcreator"
+>  Open the file which is of the file type *.ipynb*
+> You can now use the graph creator! Press the triangle button to start, and guided steps should show up in the output. Simply type your answers in the output to create your graph.
+
 > ![Screenshot_28-6-2025_173950_localhost](https://github.com/user-attachments/assets/ed29d611-568e-4449-8c92-51bb428c9864)
+
 4. If you use VS code or other code editor, follow these steps:
-> Open VS Code, then through VS Code, open the unzipped/extracted folder, click in "Python-Graph-Creator-main", then "pythongraphcreator"  
+   
+> Open VS Code, then through VS Code, open the unzipped/extracted folder, click in "Python-Graph-Creator-main", then "pythongraphcreator"
 > Open the file which is of the file type *.py*
 > In the terminal, input the following code:
+
 > ```pip install pandas```    
 > ```pip install matplotlib```    
 > ```pip install seaborn```  
 > ```pip install counter ```
+
 > (These commands are used to install the needed Python Libraries in order for the code to run as it should.)
 > You can now use the graph creator! Run the code, and guided steps should show up in the terminal. Simply type your answers in the terminal to create your graph.  
 > ![Screenshot 2025-06-28 181307](https://github.com/user-attachments/assets/a3dd883a-2c20-4cae-9b2b-45c333237c36)
+
 </details>
 
 __________________________________________________________
