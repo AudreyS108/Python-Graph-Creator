@@ -14,8 +14,11 @@ This Python program performs a multitude of functions. They include:
 __________________________________________________________
 How To Operate:
 - 
-1. Open the file in "releases"
-2. TBC
+1. Go to the "Releases" section and select "App ver. of Python Graph Creator"  
+>  ![image](https://github.com/user-attachments/assets/634ea80c-a88a-4ec6-9002-2b7bfff0b3ef)  
+2. Click "graph-creator.exe" under "Assets" to download the application file.  
+> ![image](https://github.com/user-attachments/assets/5ab55075-d684-4b05-894b-3c4408407b90)  
+3. After the download, open the file and a terminal should pop up. Once the assets are initialised, you will be prompted to input.  
 
  **Alternate operating methods (only if above method fails!)** 
 <details>
