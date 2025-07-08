@@ -14,6 +14,10 @@ This Python program performs a multitude of functions. They include:
 __________________________________________________________
 How To Operate:
 - 
+1. Open the file in "releases"
+2. TBC
+
+**Alternate operating methods (only if above method fails!)**
 1. Press the green "Code" button. Select "Local" and then "Download ZIP"  
 > ![Step1](https://github.com/user-attachments/assets/f273659e-e287-4748-b895-fa7923775d2d)
 2. Unzip/extract the downloaded ZIP folder
@@ -42,7 +46,7 @@ How To Operate:
 __________________________________________________________
 Personal Project Evaluation and Reflection:
 -
-I decided to make this project while I was daydreaming in science class. At the time, our class was learning how to create accurate graphs to represent a data set. This prompted me to think: "I wonder if I could make something that could make a graph for me, without me having to individually plot each data point?" A year ago, I was (and still am) aspiring to become a data scientist, and wanted find a career linked to data analysis. Because of this, I had begun a Python for Data Science course a few months back. At the end of the course, I felt that I should put my newly nurtured skills to practice! Luckily, I was fortunate enough to be told about the Athena Award by Hack CLub. Coding 3 projects for 30 hours, utilizing my programming skills, and possibly meeting like-minded individuals along the way? How could I possibly turn that down? After I received the message, I signed up and focused my first project on Python, data, and graphs - which became this project, Python Graph Creator.
+I decided to make this project while I was in science class. At the time, our class was learning how to create accurate graphs to represent a data set. This prompted me to think: "I wonder if I could make something that could make a graph for me, without me having to individually plot each data point?" A year ago, I was (and still am) aspiring to become a data scientist, and wanted find a career linked to data analysis. Because of this, I had begun a Python for Data Science course a few months back. At the end of the course, I felt that I should put my newly nurtured skills to practice! Luckily, I was fortunate enough to be told about the Athena Award by Hack CLub. Coding 3 projects for 30 hours, utilizing my programming skills, and possibly meeting like-minded individuals along the way? How could I possibly turn that down? After I received the message, I signed up and focused my first project on Python, data, and graphs - which became this project, Python Graph Creator.
 __________________________________________________________
 This project was made by using the Python libraries Matplotlib, Seaborn, Pandas and Counter. I used the code editor Jupyter Notebook when making this project.
 * Matplotlib and Seaborn: Used for creating graphs with the given datapoints the user inputted.
