@@ -17,7 +17,9 @@ How To Operate:
 1. Open the file in "releases"
 2. TBC
 
-**Alternate operating methods (only if above method fails!)**
+<details>
+
+<summary> **Alternate operating methods (only if above method fails!)** </summary>
 1. Press the green "Code" button. Select "Local" and then "Download ZIP"  
 > ![Step1](https://github.com/user-attachments/assets/f273659e-e287-4748-b895-fa7923775d2d)
 2. Unzip/extract the downloaded ZIP folder
@@ -43,6 +45,8 @@ How To Operate:
 > (These commands are used to install the needed Python Libraries in order for the code to run as it should.)
 > You can now use the graph creator! Run the code, and guided steps should show up in the terminal. Simply type your answers in the terminal to create your graph.  
 > ![Screenshot 2025-06-28 181307](https://github.com/user-attachments/assets/a3dd883a-2c20-4cae-9b2b-45c333237c36)
+</details>
+
 __________________________________________________________
 Personal Project Evaluation and Reflection:
 -
