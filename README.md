@@ -17,16 +17,23 @@ How To Operate:
 1. Open the file in "releases"
 2. TBC
 
+ **Alternate operating methods (only if above method fails!)** 
 <details>
+<summary></summary>
 
-<summary> **Alternate operating methods (only if above method fails!)** </summary>
-1. Press the green "Code" button. Select "Local" and then "Download ZIP"  
+1. Press the green "Code" button. Select "Local" and then "Download ZIP"
+   
 > ![Step1](https://github.com/user-attachments/assets/f273659e-e287-4748-b895-fa7923775d2d)
+
 2. Unzip/extract the downloaded ZIP folder
-3. If you use Jupyter Notebook, follow these steps:  
-> Open Jupyter Notebook, open a new terminal and input the following code:  
-> ```pip install pandas```    
-> ```pip install matplotlib```    
+   
+3. If you use Jupyter Notebook, follow these steps:
+   
+> Open Jupyter Notebook, open a new terminal and input the following code:
+
+> ```pip install pandas```
+
+> ```pip install matplotlib```   
 > ```pip install seaborn```  
 > ```pip install counter ```  
 > (These commands are used to install the needed Python Libraries in order for the code to run as it should.)   
