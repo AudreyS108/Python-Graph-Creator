@@ -1,4 +1,6 @@
 # Python Graph Creator
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
+
 This project is called Python Graph Creator.  
 It is my first project submission for the Athena Award.   
 This project is designed to let the user create a plot/graph easily! It's simple to customize, and also simple to set up. 
